@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server_one", "author": "typicode", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed nisi lacus sed viverra tellus in hac habitasse platea."},
+    { "id": 2, "title": "json-server_two", "author": "typicode", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim praesent elementum facilisis leo vel fringilla est. Pulvinar proin gravida hendrerit lectus. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis."},
+    { "id": 3, "title": "json-server_three", "author": "typicode", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Convallis aenean et tortor at risus viverra. Fringilla urna porttitor rhoncus dolor purus. Diam quam nulla porttitor massa id neque aliquam vestibulum. Gravida arcu ac tortor dignissim convallis. Pretium fusce id velit ut tortor pretium viverra suspendisse potenti."}
+  ],
+  "about": {
+    "title": "This is About Page"
+  }
+}
